@@ -1,5 +1,5 @@
 # ServerClient
-类似web服务器功能
+课程设计做的一个类似web服务器功能的小程序
 # 操作
 运行代码，在弹出的窗体中点击“开启服务器”
 ![](https://github.com/HelloTR/WebServer/blob/master/screenshot/1.jpg)
